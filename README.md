@@ -41,7 +41,8 @@ AuteN/
 │  
 ├── index.html # Main UI page  
 ├── css/ # Stylesheets  
-├── js/ # JavaScript logic  
+├── js/ # JavaScript logic 
+├── GOOGLE_AUTH_SETUP.md
 └── README.md # Documentation  
 
 ---
